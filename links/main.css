@@ -44,3 +44,5 @@ a.assets:hover { background:#555; }
 a.assets span { color:#777; font-size:14px; }
 
 /* CUSTOM */
+
+.itunes { width:120px; margin:0px auto 45px; display: block; }
